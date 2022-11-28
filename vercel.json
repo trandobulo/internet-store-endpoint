@@ -1,5 +1,3 @@
 {
-  "version": 2,
-  "name": "internet-store-endpoint",
-  "routes": [{ "src": "/(.*)", "dest": "/main.js" }]
+  "rewrites": [{ "src": "/(.*)", "dest": "/main.js" }]
 }

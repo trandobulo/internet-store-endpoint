@@ -1,3 +1,3 @@
 {
-  "rewrites": [{ "src": "/(.*)", "dest": "/main.js" }]
+  "rewrites": [{ "src": "/(.*)", "dest": "dist/main.js" }]
 }
